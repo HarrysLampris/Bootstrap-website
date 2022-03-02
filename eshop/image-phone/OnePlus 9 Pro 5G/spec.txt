@@ -1,0 +1,11 @@
+productid,
+ price  790, 
+quantity  5,
+ photoURL , 
+model OnePlus 9 Pro 5G  ,
+ screenSize  6,7 ",
+ CPU  Snapdragon 888, 
+RAM 8gb,
+camera 50mp, 
+battery  5210, 
+SAR 0.51

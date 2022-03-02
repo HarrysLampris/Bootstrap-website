@@ -1,0 +1,11 @@
+productid,
+ price  790, 
+quantity  5,
+ photoURL , 
+model iPhone 12 Mini 5G,
+ screenSize  5,4",
+ CPU  Apple A14 Bionic, 
+RAM 4gb,
+camera 12mp, 
+battery  3210, 
+SAR 0.51

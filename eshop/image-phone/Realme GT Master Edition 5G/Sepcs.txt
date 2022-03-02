@@ -1,0 +1,8 @@
+MODEL:Realme GT Master Edition 5G 
+PRICE: 330
+SCREEN SIZE:6,43 "
+CPU:Snapdragon 778 5G
+RAM:8 GB
+CAMERA:64MP
+BATTERY:4300 mAh
+SAR: 0.8

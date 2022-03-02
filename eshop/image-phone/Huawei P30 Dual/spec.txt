@@ -1,0 +1,11 @@
+productid,
+ price  630, 
+quantity  5,
+ photoURL , 
+model Huawei P30 Dual ,
+ screenSize  6,1 ",
+ CPU  Kirin 980, 
+RAM 8gb,
+camera 16mp, 
+battery  3610, 
+SAR 0.51

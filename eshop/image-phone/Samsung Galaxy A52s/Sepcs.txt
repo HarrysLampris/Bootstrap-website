@@ -1,0 +1,8 @@
+MODEL: Samsung Galaxy A52s
+PRICE: 340
+SCREEN SIZE: 6.5
+CPU: Snapdragon 778 5G
+RAM: 6
+CAMERA: 64MP
+BATTERY: 4500 mAh
+SAR: 0.88 W/kg

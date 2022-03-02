@@ -1,0 +1,11 @@
+productid,
+ price  490, 
+quantity  5,
+ photoURL , 
+model OnePlus 8T 5G ,
+ screenSize  6,5 ",
+ CPU  Snapdragon 865, 
+RAM 8gb,
+camera 20mp, 
+battery  4210, 
+SAR 0.51

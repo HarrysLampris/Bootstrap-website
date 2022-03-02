@@ -1,0 +1,11 @@
+productid,
+ price  376, 
+quantity  59,
+ photoURL , 
+model Huawei Nova 9,
+ screenSize  6,5 ",
+ CPU  Snapdragon 778 4G, 
+RAM 8gb,
+camera 50mp, 
+battery  4210, 
+SAR 0.51

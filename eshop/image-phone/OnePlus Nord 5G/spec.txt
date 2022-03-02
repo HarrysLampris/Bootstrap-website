@@ -1,0 +1,11 @@
+productid,
+ price  390, 
+quantity  5,
+ photoURL , 
+model OnePlus Nord 5G ,
+ screenSize  6,4 ",
+ CPU  Snapdragon 765G, 
+RAM 8gb,
+camera 48mp, 
+battery  4210, 
+SAR 0.51

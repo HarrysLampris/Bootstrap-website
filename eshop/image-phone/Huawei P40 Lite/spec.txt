@@ -1,0 +1,11 @@
+productid,
+ price  235, 
+quantity  5,
+ photoURL , 
+model Huawei P40 Lite ,
+ screenSize  6,4 ",
+ CPU  Kirin 810, 
+RAM 4gb,
+camera 20mp, 
+battery  4010, 
+SAR 0.41

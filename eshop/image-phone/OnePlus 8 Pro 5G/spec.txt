@@ -1,0 +1,11 @@
+productid,
+ price  690, 
+quantity  5,
+ photoURL , 
+model OnePlus 8 Pro 5G ,
+ screenSize  6,7 ",
+ CPU Snapdragon 865, 
+RAM 8gb,
+camera 48mp, 
+battery  5210, 
+SAR 0.51

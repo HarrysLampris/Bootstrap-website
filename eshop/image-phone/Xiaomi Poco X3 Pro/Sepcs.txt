@@ -1,0 +1,8 @@
+MODEL: Xiaomi Poco X3 Pro
+PRICE: 235
+SCREEN SIZE: 6,67
+CPU: Snapdragon 860
+RAM: 6 GB
+CAMERA: 48MP
+BATTERY: 5160 mAh
+SAR: 0,558 W/kg

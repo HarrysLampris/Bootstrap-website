@@ -1,0 +1,11 @@
+productid,
+ price  785, 
+quantity  5,
+ photoURL , 
+model Huawei P40 Pro 5G ,
+ screenSize  6,58 ",
+ CPU  Kirin 990 5G, 
+RAM 8gb,
+camera 50mp, 
+battery  4210, 
+SAR 0.51

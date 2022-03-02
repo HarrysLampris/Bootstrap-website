@@ -1,0 +1,11 @@
+productid,
+ price  590, 
+quantity 5,
+ photoURL , 
+model iPhone SE 2020 ,
+ screenSize  5,0 ",
+ CPU  Apple A1 Bionic, 
+RAM 4gb,
+camera 12mp, 
+battery  2210, 
+SAR 0.51

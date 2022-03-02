@@ -1,0 +1,11 @@
+productid,
+ price  610, 
+quantity  5,
+ photoURL , 
+model iPhone 11 ,
+ screenSize  6,1 ",
+ CPU  Apple A13 Bionic, 
+RAM 4gb,
+camera 12mp, 
+battery  3110, 
+SAR 0.55

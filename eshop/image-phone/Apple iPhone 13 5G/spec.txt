@@ -1,0 +1,11 @@
+productid,
+ price  990, 
+quantity  5,
+ photoURL , 
+model iPhone 13 5g ,
+ screenSize  6,1 ",
+ CPU  Apple A15 Bionic, 
+RAM 4gb,
+camera 12mp, 
+battery  3210, 
+SAR 0.51
